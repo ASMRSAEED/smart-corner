@@ -1,0 +1,56 @@
+[
+    {
+        "id": "623e07b598185d87c813e1aa",
+        "name": "Yamaha CGS102A Half-Size Classical Guitar",
+        "price": 114,
+        "image": "https://images.unsplash.com/photo-1556449895-a33c9dba33dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": "623e07b515278389be981de9",
+        "name": "Yamaha FG JR1 3/4 Size Acoustic Guitar",
+        "price": 205,
+        "image": "https://images.unsplash.com/photo-1568193755668-aae18714a9f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": "623e07b5e51a396b20177fc6",
+        "name": "Yamaha FG800 Acoustic Guitar",
+        "price": 236,
+        "image": "https://images.unsplash.com/photo-1567771736315-133752f63a69?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": "623e07b5ba7dfd11886e81ff",
+        "name": "Yamaha FS800 Small Body Acoustic Guitar",
+        "price": 285,
+        "image": "https://images.unsplash.com/photo-1543945696-4f1116f30c03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=356&q=80"
+    },
+    {
+        "id": "623e07b5917e715930b847b1",
+        "name": "Yamaha A-Series A3R Acoustic Guitar",
+        "price": 300,
+        "image": "https://images.unsplash.com/photo-1588449668365-d15e397f6787?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": "623e07b540c4931456654dww",
+        "name": "Yamaha FG830 Acoustic Guitar",
+        "price": 325,
+        "image": "https://images.unsplash.com/photo-1573512932385-62af9a104ace?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80"
+    },
+    {
+        "id": "623e07b540c4931456654dhh",
+        "name": "Yamaha FS800 Small Body Acoustic Guitar",
+        "price": 355,
+        "image": "https://images.unsplash.com/photo-1618530627969-d1de1bf1b3ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+        "id": "623e07b540c4931456654dpp",
+        "name": "Yamaha SLG200S NT Steel String Silent Guitar",
+        "price": 380,
+        "image": "https://images.unsplash.com/photo-1559304754-a042e039e5dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": "623e07b5aa5ada09bed99f3e",
+        "name": "Yamaha APX700II-12 12-String Cutaway Acoustic Guitar",
+        "price": 420,
+        "image": "https://images.unsplash.com/photo-1610087844449-5b1e6f34032e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }
+]
