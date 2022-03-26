@@ -9,7 +9,10 @@
     gap: 20px;
 }
 .cart-container{
-    color:chocolate;
+    margin: 22px 0px 22px 0px;
+    border-radius: 10px;
+    background-color: brown;
+    color:black;
     text-align: center;
 }
 
