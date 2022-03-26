@@ -6,20 +6,20 @@ import './Main.css'
 const Main = () => {
     const [tvs, setTvs] = useState([])
     const [datas, setDatas] = useState([])
-    useEffect( () => {
+    useEffect(() => {
         fetch('fakeData.json')
-        .then(res => res.json())
-        .then(data => setTvs(data))
+            .then(res => res.json())
+            .then(data => setTvs(data))
     }, [])
 
     const addCartDetail = (cartDetails) => {
         const a = datas.find(data => data.id === cartDetails.id)
-        if(datas.length === 4){
+        if (datas.length === 4) {
             alert('Please Choose Maximum 4 items.')
-        }else if(a){
+        } else if (a) {
             alert('Item Already added.')
         }
-        else{
+        else {
             setDatas([...datas, cartDetails])
         }
     }
@@ -32,10 +32,10 @@ const Main = () => {
     // console.log(choose)
     const chooseOne = () => {
         const randomDigit = Math.ceil(Math.random() * 10)
-        const match = datas.find(data => data.id == randomDigit) 
-        if(match){
+        const match = datas.find(data => data.id == randomDigit)
+        if (match) {
             setChoose([match])
-        }else{
+        } else {
             setChoose([datas[0]])
         }
     }
@@ -50,7 +50,6 @@ const Main = () => {
                 <h1 className='cart-details-head'><u>Shopping Cart:</u> </h1>
                 <SelectedTV choose={choose} chooseOne={chooseOne} datas={datas} deleteFunction={deleteFunction}></SelectedTV>
             </div>
-            
         </div>
     );
 };

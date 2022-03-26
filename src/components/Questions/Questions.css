@@ -1,0 +1,20 @@
+.questions{
+    margin: 20px 20px 20px 20px;
+}
+.question-1{
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aquamarine;
+}
+.question-2{
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color:aqua;
+}
+.question-3{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: blueviolet;
+}

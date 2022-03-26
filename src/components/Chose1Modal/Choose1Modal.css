@@ -17,24 +17,23 @@
 .modal-img{
     width: 100%;
 }
-.choose-one-for{
+.choose-btn{
     padding: 7px 20px;
     font-size: 18px;
-    border-radius: 10px 0 10px 0;
+    border-radius: 20px;
     border: none;
     box-shadow: 2px 2px 5px;
-    cursor: pointer;
     margin-top: 30px;
-    color: green;
+    color: red;
 }
-.choose-one-for:active{
+.choose-btn:active{
     position: relative;
     top: 7px;
 }
 .close-btn{
     padding: 7px 20px;
     font-size: 18px;
-    border-radius: 10px 0 10px 0;
+    border-radius: 20px;
     border: none;
     box-shadow: 2px 2px 5px;
     cursor: pointer;

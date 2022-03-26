@@ -2,16 +2,6 @@ import React from 'react';
 import Modal from 'react-modal';
 import './Choose1Modal.css'
 
-// const customStyles = {
-//     content: {
-//       top: '50%',
-//       left: '50%',
-//       right: 'auto',
-//       bottom: 'auto',
-//       marginRight: '-50%',
-//       transform: 'translate(-50%, -50%)',
-//     },
-//   };
 Modal.setAppElement('#root');
 const Choose1Modal = (props) => {
   const { choose, chooseOne } = props
@@ -29,7 +19,7 @@ const Choose1Modal = (props) => {
   }
   return (
     <div>
-      <button onClick={a} className='choose-one-for'>Top Pick</button>
+      <button onClick={a} className='choose-btn'>Top Pick</button>
       <Modal
         isOpen={modalIsOpen}
         onRequestClose={closeModal}
