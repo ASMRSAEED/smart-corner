@@ -1,0 +1,34 @@
+.main{
+    margin: 0px 25px 25px 0px;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    grid-gap: 40px
+}
+.cart-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+}
+.cart-details{
+    padding: 50px;
+    background-color: #fff;
+}
+.cart-details-head{
+    color: blue;
+    margin-bottom: 50px
+}
+
+@media screen and (max-width: 420px){
+    .main{
+        grid-template-columns: auto;
+    }
+    .cart-container{
+        grid-template-columns: auto;
+        padding: 5px;
+    }
+    .cart-details{
+        padding: 5px;
+    }
+}

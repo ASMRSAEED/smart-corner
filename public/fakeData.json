@@ -1,0 +1,56 @@
+[
+  {
+    "id": "100",
+    "name": "QN900A QLED 8K Smart TV",
+    "price": "949",
+    "img": "https://images.samsung.com/is/image/samsung/p6pim/bd/qa85qn900akxxl/gallery/bd-neo-qled-8k-qn900a-qa85qn900akxxl-507678013?$684_547_PNG$"
+  },
+  {
+    "id": "101",
+    "name": "QN800A QLED 8K Smart TV",
+    "price": "429",
+    "img": "https://images.samsung.com/is/image/samsung/p6pim/bd/qa75qn800akxxl/gallery/bd-neo-qled-8k-qn800a-qa75qn800akxxl-507680799?$684_547_PNG$"
+  },
+  {
+    "id": "102",
+    "name": "Q70AA QLED 4K Smart TV",
+    "price": "289",
+    "img": "https://images.samsung.com/is/image/samsung/p6pim/bd/qa85q70aarser/gallery/bd-qled-q70a-qa85q70aarser-507696517?$684_547_PNG$"
+  },
+  {
+    "id": "103",
+    "name": "Q60AA QLED 4K Smart TV",
+    "price": "225",
+    "img": "https://images.samsung.com/is/image/samsung/p6pim/bd/qa75q60aarser/gallery/bd-qled-q60a-qa75q60aarser-507699272?$684_547_PNG$"
+  },
+  {
+    "id": "104",
+    "name": "Q80T QLED 4K Smart TV",
+    "price": "344",
+    "img": "https://images.samsung.com/is/image/samsung/p6pim/bd/qa65q80tarxfs/gallery/bd-qledtv-q80t-qa65q80tarxfs-467583464?$684_547_PNG$"
+  },
+  {
+    "id": "105",
+    "name": "Q950T 8K Smart QLED TV",
+    "price": "359",
+    "img": "https://images.samsung.com/is/image/samsung/p6pim/bd/qa85q950tskxxl/gallery/bd-qled-tv-qa85q950tskxxl-l-perspective-black-457897891?$684_547_PNG$"
+  },
+  {
+    "id": "106",
+    "name": "Q60T QLED 4K Smart TV",
+    "price": "325",
+    "img": "https://images.samsung.com/is/image/samsung/p6pim/bd/qa55q60tarxfs/gallery/bd-qledtv-q60t-qa55q60tarxfs-467582178?$684_547_PNG$"
+  },
+  {
+    "id": "107",
+    "name": "AU8000 Crystal 4K Smart TV",
+    "price": "205",
+    "img": "https://images.samsung.com/is/image/samsung/p6pim/bd/ua85au8000rser/gallery/bd-crystal-uhd-au8000-ua85au8000rser-507706176?$684_547_PNG$"
+  },
+  {
+    "id": "108",
+    "name": "AU7700 Crystal 4K Smart TV",
+    "price": "225",
+    "img": "https://images.samsung.com/is/image/samsung/p6pim/bd/ua65au7700rser/gallery/bd-uhd-au7000-ua65au7700rser-507719005?$684_547_PNG$"
+  }
+]
