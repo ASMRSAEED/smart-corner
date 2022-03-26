@@ -1,8 +1,14 @@
 .header{
+    display: flex;
+    justify-content: center;
     font-size: 25px;
     height: 130px;
     padding: 1px;
-    text-align: center;
     color: black;
     background-color: orange;
+}
+.header img{
+    padding-top: 15px;
+    width: 100px;
+    height: 100px;
 }
