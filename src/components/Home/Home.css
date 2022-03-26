@@ -1,0 +1,140 @@
+.header-text {
+    text-align: center;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+}
+.section-header h1 {
+    color: blue;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.section-header p {
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.content-section {
+    display: flex;
+    padding: 50px;
+}
+
+.products {
+    width: 65%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.cart-section {
+    position: sticky;
+    top: 0;
+    width: 35%;
+    height: 100%;
+    margin: 10px 20px 0px;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 5px 10px 30px ;
+}
+
+.cart-text {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.cart-text h2 {
+    padding-bottom: 6px;
+    margin-bottom: 50px;
+}
+
+.button {
+    margin-top: 50px;
+    margin-bottom: 35px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button-one {
+    outline: none;
+    border-radius: 10px;
+    width: 165px;
+    font-weight: 700;
+    background: green;
+    padding: 7px 5px;
+    color: #f3f3f3;
+    box-shadow: 5px 10px 20px gray;
+    transition: .3s;
+}
+
+.button-one:hover {
+    color: #1d1d1d;
+    background: none;
+    box-shadow: 5px 10px 30px gray;
+}
+
+.button-two {
+    outline: none;
+    width: 165px;
+    font-weight: 700;
+    border-radius: 10px;
+    background: blue;
+    padding: 7px 15px;
+    color: #f3f3f3;
+    box-shadow: 5px 10px 20px gray;
+    transition: .3s;
+}
+
+.button-two:hover {
+    color: #1d1d1d;
+    background: none;
+    box-shadow: 5px 10px 30px gray;
+}
+
+
+/* Mobile Responsive */
+
+@media screen and (max-width: 1132px) {
+    .content-section {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .products {
+        width: 80%;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .content-section {
+        padding: 10px;
+    }
+
+    .products {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .button {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .button-one, .button-two {
+        margin: 10px 0;
+    }
+
+    .cart-section {
+        width: 75%;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .cart-section {
+        width: 90%;
+    }
+}

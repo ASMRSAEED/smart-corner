@@ -1,14 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import Header from './components/Header/Header';
-import Main from './components/Main/Main';
-import Questions from './components/Questions/Questions';
+import Home from './Components/Home/Home';
+import Questions from './Components/Questions/Questions';
 
 function App() {
   return (
     <div>
-      <Header></Header>
-      <Main></Main>
+      <Home></Home>
       <Questions></Questions>
     </div>
   );

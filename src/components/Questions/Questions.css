@@ -1,5 +1,5 @@
 .questions{
-    margin: 20px 20px 20px 20px;
+    margin: 20px 50px 20px 50px;
 }
 .question-1{
     margin-bottom: 10px;
@@ -16,5 +16,5 @@
 .question-3{
     border-radius: 10px;
     padding: 10px;
-    background-color: blueviolet;
+    background-color:bisque;
 }
